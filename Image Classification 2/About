@@ -1,0 +1,6 @@
+Dataset link: https://www.kaggle.com/datasets/oxcdcd/cifar10
+It's a famoud dataset named "Cifar 10"
+It's a image classification task.
+I used Transfer learning and implemented VGG16 model.
+I gained the accuracy of 96%.
+Thanks.
