@@ -1,0 +1,5 @@
+Dataset Link: https://www.kaggle.com/datasets/salader/dogs-vs-cats
+Dataset is about Dogs and Cats classification.
+I implemented Transfer learning concepts of deep learning to solve this problem
+I called upon VGGNet16 model for this tasks.
+Gained the accuracy of 92%.
